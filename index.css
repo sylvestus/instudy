@@ -202,3 +202,25 @@ margin-top: 40px;
     height: 15%;
     width: 15%;
 }
+.listen_2customer{
+   
+    height: auto;
+    background-image: url("images/img-4.png");
+    background-size: cover;
+}
+.listen_2customer .listen_txt{
+    margin-top: 70px;
+    color: white;
+}
+
+.listen_2customer .listen_row{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+
+}
+.listen_2customer .listen_row li{
+    margin-top: 40px;
+    list-style: none;
+    background-color: white;
+}
