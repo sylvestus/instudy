@@ -89,7 +89,7 @@ min-width: 800px;
 }
 
 .about_us .about_pics .col2 li img{
-    width: 200px; height: 200px;
+    width: 200px; height: 198px;
 }
 
 
@@ -118,6 +118,7 @@ min-width: 800px;
 }
 
 .menu{
+    padding-top: 60px;
     height: auto;
    
     background-color: #f5f5f5;
@@ -152,11 +153,12 @@ width: 100%;
 
 }
 .menu .row2{
+   
 margin-top: 40px;
 }
 
 .menu .row1 li div{
-    margin-left: 40px;
+    margin-left: 50px;
     
 }
  .mlast{
