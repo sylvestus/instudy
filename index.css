@@ -224,3 +224,27 @@ margin-top: 40px;
     list-style: none;
     background-color: white;
 }
+.book_table .book_form form .fElement{
+    height: 30px;
+    width: 70%;
+    margin: 10px;
+    border: none;
+    outline: none;
+    background-color: #f5f5f5;
+}
+
+.book_table .book_form form .hElement{
+    height: 30px;
+    width: 34%;
+    margin: 10px; 
+    border: none;
+    outline: none;
+    background-color: #f5f5f5;
+}
+.book_table .book_form form .mess{
+    height: 150px;
+}
+
+.book_table .book_form form{
+    padding-bottom: 80px;
+}
