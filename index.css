@@ -113,7 +113,7 @@ min-width: 800px;
 }
 .stars{
     color: #e1651f;
-   
+  
     
 }
 
@@ -300,13 +300,13 @@ margin-top: 40px;
     justify-content: space-around;
 }
 .footer_btm>li{
-    margin-top: 20px;
+   margin-top: 20px;
     list-style: none;
     display: inline;
     
 }
 
 .footer_btm ul>li{
-  padding-left: 20px;
+  padding-left: 10px;
    display: inline;
 }
