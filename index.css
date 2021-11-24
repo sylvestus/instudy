@@ -248,3 +248,18 @@ margin-top: 40px;
 .book_table .book_form form{
     padding-bottom: 80px;
 }
+.stat_numbers{
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    width: 100%;
+    overflow-x: hidden;
+    background-image: url("images/Rectangle\ 4.png");
+    background-size: cover;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   color: white;
+}
+.stat_numbers li{
+    list-style: none;
+}
