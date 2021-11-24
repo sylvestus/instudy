@@ -1,0 +1,42 @@
+
+body{
+    overflow-x: hidden;
+    margin: 0px;
+}
+.navbar{
+    width: 100%;
+    height: auto;
+   background-image: url("images/img-4.png"); 
+   background-size: cover;
+}
+
+.navbar .logo{
+    display: inline;
+  width: 10%;
+  height: auto;
+  font-family: "Times New Roman", Times, serif;  
+  float: left;
+  margin-left: 0;
+  padding-top: 10px;
+  
+
+}
+.navbar .nav_list{
+   
+    width: 90%;
+    margin-left: 45%;
+    height: 20px;
+   
+    font-size: 98%;
+    padding-top: 10px;
+
+   
+    
+}
+.navbar .nav_list li{
+    display: inline;
+   
+padding: 20px;
+min-width: 800px;
+
+}
