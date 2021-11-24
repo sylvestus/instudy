@@ -98,3 +98,67 @@ min-width: 800px;
     float: right;
     margin-top: 40px;
 }
+  #first_hr{
+    width: 10%;
+    float: left;
+    height: 2px;
+    background-color: #e1651f;
+}
+
+#amount{
+    margin-left: 10px;
+    background-color: #e1651f;
+    padding: 5px 10px 5px 10px;
+
+}
+.stars{
+    color: #e1651f;
+   
+    
+}
+
+.menu{
+    height: auto;
+   
+    background-color: #f5f5f5;
+    padding-bottom: 180px;
+
+}
+.menu .row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-left: 5px;
+   
+   
+
+}
+
+.menu .row1>li{
+    width: 350px;
+    background-color: white;
+    height: 550px;
+    list-style: none;
+    margin: 20px;
+    
+
+}
+
+.menu .row1>li>img{
+height: 60%;
+width: 100%;
+
+
+}
+.menu .row2{
+margin-top: 40px;
+}
+
+.menu .row1 li div{
+    margin-left: 40px;
+    
+}
+ .mlast{
+  margin-top: 5%;
+}
