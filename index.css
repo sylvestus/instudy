@@ -40,3 +40,61 @@ padding: 20px;
 min-width: 800px;
 
 }
+.delicious_txt {
+   display: block;
+   margin-top: 13%;
+   padding-bottom: 13%;
+  
+   
+}
+ h2, h3{
+    font-family: 'Oleo Script Swash Caps';
+}
+.btn{
+    background-color: #e1651f;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    width: 130px;
+}
+.order{
+    background-color: #fef4ee;
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    color: #e1651f;
+}
+.about_us{
+    width: 100%;
+    height: auto;
+}
+.about_us .about_pics{
+    
+    width: 45%;
+    display: inline-flex;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.about_us .about_pics .col2 {
+   
+    display: flex;
+    
+    flex-direction: column;
+    margin-left: 5px;
+}
+.about_us .about_pics .col2 li{
+   
+    list-style: none;
+}
+
+.about_us .about_pics .col2 li img{
+    width: 200px; height: 200px;
+}
+
+
+.about_us .about_txt{
+    width: 50%;
+    float: right;
+    margin-top: 40px;
+}
